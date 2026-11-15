@@ -6,9 +6,10 @@ const manifest = JSON.parse(await fs.readFile(manifestPath, 'utf8'));
 
 const entries = manifest.map((m) => {
   const largest = m.variants[m.variants.length - 1];
-  const srcSet = m.variants.map((v) => `${v.file} ${v.w}w`).join(', ');
+  const file = (p) => p.replace(/^\/+/, '');
+  const srcSet = m.variants.map((v) => `${file(v.file)} ${v.w}w`).join(', ');
   return `  '${m.name}': {
-    src: '${largest.file}',
+    src: '${file(largest.file)}',
     srcSet: '${srcSet}',
     width: ${largest.w},
     height: ${largest.h},

@@ -7,8 +7,8 @@ import { Magnetic, SmartImage } from './ui';
 const EASE = [0.16, 1, 0.3, 1] as const;
 
 const lines = [
-  [{ text: 'El arte de' }],
-  [{ text: 'una sonrisa' }],
+  [{ text: 'El arte de ' }],
+  [{ text: 'una sonrisa ' }],
   [{ text: 'natural', em: true }, { text: '.' }],
 ];
 
