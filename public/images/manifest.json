@@ -1,0 +1,192 @@
+[
+  {
+    "name": "hero-main",
+    "ratio": 1.6,
+    "sourceIndex": 21,
+    "sourceUrl": "https://images.unsplash.com/photo-1704455306251-b4634215d98f",
+    "sourceQuery": "dental clinic interior unsplash",
+    "original": "3000x2000",
+    "variants": [
+      {
+        "w": 900,
+        "h": 563,
+        "file": "/images/hero-main-900.webp",
+        "bytes": 34732
+      },
+      {
+        "w": 1400,
+        "h": 875,
+        "file": "/images/hero-main-1400.webp",
+        "bytes": 68408
+      },
+      {
+        "w": 2000,
+        "h": 1250,
+        "file": "/images/hero-main-2000.webp",
+        "bytes": 118536
+      }
+    ],
+    "lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADwAwCdASoYABAAPu1iqU2ppaOiMAgBMB2JZQC7ACHfw21YkcX/iyQAAP7ThRxSC1lmHXAGXOWII+xFhpSqhYERZb1oO+IrgAA="
+  },
+  {
+    "name": "hero-inset",
+    "ratio": 0.8,
+    "sourceIndex": 26,
+    "sourceUrl": "https://images.unsplash.com/photo-1643660527190-4f401370f788",
+    "sourceQuery": "dental clinic interior unsplash",
+    "original": "3000x4500",
+    "variants": [
+      {
+        "w": 480,
+        "h": 600,
+        "file": "/images/hero-inset-480.webp",
+        "bytes": 25678
+      },
+      {
+        "w": 800,
+        "h": 1000,
+        "file": "/images/hero-inset-800.webp",
+        "bytes": 51032
+      }
+    ],
+    "lqip": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAAAQBgCdASoYACQAPu1opE2ppqMiMBVdUTAdiWcAyRAuGoM2fDWQl7JG/5AvsajwcI6f3FkfOyPrhSAA9fYI269sPNWA/YA8sngHgNXNTslKg2+5vKcopVImGq4NBNLy3Q7PcXf1Oo4kAW4RWakem79C1QP5sAAA"
+  },
+  {
+    "name": "care",
+    "ratio": 0.75,
+    "sourceIndex": 66,
+    "sourceUrl": "https://images.unsplash.com/photo-1744723856265-866d19b9cf1a",
+    "sourceQuery": "dentist unsplash photo",
+    "original": "3000x4000",
+    "variants": [
+      {
+        "w": 600,
+        "h": 800,
+        "file": "/images/care-600.webp",
+        "bytes": 56196
+      },
+      {
+        "w": 1000,
+        "h": 1333,
+        "file": "/images/care-1000.webp",
+        "bytes": 145014
+      }
+    ],
+    "lqip": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAABwBQCdASoYACAAPu1grU6ppSSiMBgMATAdiWUAyNQxGRpOFQFjWkAxIdtrebX14uAkhcoAAN2MAn5ILy/iOpt83umRLBS7oAiC0mDmsqakOIZZKqRCySqE3Sc5GxoU2kzjtzrewgAAAA=="
+  },
+  {
+    "name": "clinic-1",
+    "ratio": 0.75,
+    "sourceIndex": 23,
+    "sourceUrl": "https://images.unsplash.com/photo-1734518352225-22a52666268c",
+    "sourceQuery": "dental clinic interior unsplash",
+    "original": "3000x2000",
+    "variants": [
+      {
+        "w": 500,
+        "h": 667,
+        "file": "/images/clinic-1-500.webp",
+        "bytes": 27054
+      },
+      {
+        "w": 900,
+        "h": 1200,
+        "file": "/images/clinic-1-900.webp",
+        "bytes": 55964
+      }
+    ],
+    "lqip": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAACQAwCdASoYABAAPu1qrU8ppiQiMAgBMB2JZwDG9CFfKmeSqXXAAPy8qw0V1H+8XS9x1DV3Hvk3tcPWN09FPLEt44AAAA=="
+  },
+  {
+    "name": "clinic-2",
+    "ratio": 1.3333333333333333,
+    "sourceIndex": 22,
+    "sourceUrl": "https://images.unsplash.com/photo-1734518352234-a58257a579be",
+    "sourceQuery": "dental clinic interior unsplash",
+    "original": "3000x2000",
+    "variants": [
+      {
+        "w": 700,
+        "h": 525,
+        "file": "/images/clinic-2-700.webp",
+        "bytes": 22266
+      },
+      {
+        "w": 1200,
+        "h": 900,
+        "file": "/images/clinic-2-1200.webp",
+        "bytes": 45762
+      }
+    ],
+    "lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAACQAwCdASoYABAALrV2u12jqampiYC0S0gABTtGiDE6Z5mH87HAAOEM+25FX6TDOCs4jJymYXoUAAAA"
+  },
+  {
+    "name": "clinic-3",
+    "ratio": 1,
+    "sourceIndex": 29,
+    "sourceUrl": "https://images.unsplash.com/photo-1642844771937-23accb161a3d",
+    "sourceQuery": "dental clinic interior unsplash",
+    "original": "3000x2000",
+    "variants": [
+      {
+        "w": 600,
+        "h": 600,
+        "file": "/images/clinic-3-600.webp",
+        "bytes": 14700
+      },
+      {
+        "w": 1000,
+        "h": 1000,
+        "file": "/images/clinic-3-1000.webp",
+        "bytes": 28388
+      }
+    ],
+    "lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADwAwCdASoYABAAPu1orU6ppiSiMAgBMB2JZQCdCGABSV3nSMSZ+jIAAPMdObPWLkV1oNIw2mTO7bpIeJDKj1kGZdBaN83eDHAAAA=="
+  },
+  {
+    "name": "smile",
+    "ratio": 0.8,
+    "sourceIndex": 80,
+    "sourceUrl": "https://images.pexels.com/photos/1858175/pexels-photo-1858175.jpeg",
+    "sourceQuery": "woman smile teeth pexels",
+    "original": "1600x2400",
+    "variants": [
+      {
+        "w": 600,
+        "h": 750,
+        "file": "/images/smile-600.webp",
+        "bytes": 48504
+      },
+      {
+        "w": 1000,
+        "h": 1250,
+        "file": "/images/smile-1000.webp",
+        "bytes": 102112
+      }
+    ],
+    "lqip": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAADwBQCdASoYACQAPu1kqU8ppSOiKqwBMB2JYwCo9BJLWMGSzSTsMz0lDaV+F5iQVyndF/NWTVPc0AD+3ruJqUH5kfVLrEZI5qkRxtlXk4hnYmDSYxFnbbhTTUHyIDr1eYhqjXy2sa/iR97MVisEmuH72J33I3Vl/7/Br6/F79sKLlAGt63O2gs1GAA="
+  },
+  {
+    "name": "detail",
+    "ratio": 1.5,
+    "sourceIndex": 25,
+    "sourceUrl": "https://images.unsplash.com/photo-1629909613638-0e4a1fad8f81",
+    "sourceQuery": "dental clinic interior unsplash",
+    "original": "3000x1965",
+    "variants": [
+      {
+        "w": 700,
+        "h": 467,
+        "file": "/images/detail-700.webp",
+        "bytes": 27716
+      },
+      {
+        "w": 1200,
+        "h": 800,
+        "file": "/images/detail-1200.webp",
+        "bytes": 58982
+      }
+    ],
+    "lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAACwAwCdASoYABAAPu1mqk2ppaQiMAgBMB2JZQCw7Bt4vB7c6UskAAD8XWynUZ8ux4JBJsNM3OipluHl3Hme1dkNQtMOvAAA"
+  }
+]
