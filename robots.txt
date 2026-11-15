@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Provisional: replace with the production domain before publishing.
+Sitemap: https://salgadoerika61-ui.github.io/dentea/sitemap.xml
